@@ -1,0 +1,39 @@
+body {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #27292c;
+    color: white;
+    font-size: 1.75rem;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+main {
+    margin-top: 65px;
+    margin-left: 10px;
+}
+
+
+
+.nav-list {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size:1,5rem;
+    font-weight: bold;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between; /* Pani logo ja navi eraldi nurkadesse */
+    align-items: center;    /* Muutis logo mõõtmed normaalseks tagasi */
+    padding: 10px 20px;
+}
+
+.header img {
+    width: 55px;
+}
