@@ -1,3 +1,6 @@
+#Go to vite.config.js and update the root property to point to the specific directory within the project's folder that you want to serve.
+All the different mini study projects are over there.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
