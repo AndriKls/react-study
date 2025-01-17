@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  root: './projects/themeSwitcher',
+  root: './projects/menu',
   plugins: [react()],
 })
